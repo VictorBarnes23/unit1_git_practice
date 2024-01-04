@@ -1,0 +1,100 @@
+### Step 2A
+/c/Users/vicpb
+
+### Step 2B
+cd Desktop/
+
+### Step 2C
+cd unit1-git-practice/
+
+### Step 2D
+/c/Users/vicpb/Desktop/unit1-git-practice
+
+### Step 2E
+ls
+
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+cd ~
+
+### Step 2H
+/c/Users/vicpb
+
+
+### Step 2I
+ls
+'3D Objects'/         Links/                                                                                         OneDrive/       Templates@
+ AppData/            'Local Settings'@                                                                               Pictures/       Videos/
+'Application Data'@   Music/                                                                                         PrintHood@      ansel/
+ Contacts/           'My Documents'@                                                                                 README.md       ntuser.dat.LOG1
+ Cookies@             NTUSER.DAT                                                                                     Recent@         ntuser.dat.LOG2
+ Desktop/             NTUSER.DAT{dc7c6a79-6257-11ee-87ed-347df652f9a3}.TM.blf                                       'Saved Games'/   ntuser.ini
+ Documents/           NTUSER.DAT{dc7c6a79-6257-11ee-87ed-347df652f9a3}.TMContainer00000000000000000001.regtrans-ms   Searches/       source/
+ Downloads/           NTUSER.DAT{dc7c6a79-6257-11ee-87ed-347df652f9a3}.TMContainer00000000000000000002.regtrans-ms   SendTo@
+ Favorites/           NetHood@
+
+### Step 2J
+cd ..
+
+### Step 2K
+cd ~
+cd Desktop/unit1-git-practice/
+
+
+### Step 3A
+
+
+### Step 3B
+
+
+### Step 3C
+
+
+### Step 3D
+
+
+### Step 3E
+
+
+### Step 3F
+
+
+### Step 3G
+
+
+### Step 3H
+
+
+### Step 3I
+
+
+### Step 3J
+
+
+### Step 3K
+
+
+### Step 3L
+
+
+### Step 3M
+
+
+### Step 3N
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
