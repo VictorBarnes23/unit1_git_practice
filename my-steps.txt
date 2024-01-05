@@ -99,13 +99,21 @@ mkdir drinks
 rm -r drinks
 
 ### Step 4
+cd desktop
+cd unit1-git-practice/
+git init
+git add .
+git status
+git commit -m "First commit for deliverable one"
 
 
 ### Step 5
-
+git push
 
 ### Step 6
-
+git add my-steps.txt
+git commit -m "test 1 to update information"
+git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
